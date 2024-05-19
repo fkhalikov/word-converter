@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Farid\\source\\repos\\WordConverter\\WordConverter\\WordConverter.csproj": {}
+    "C:\\github\\word-converter\\WordConverter\\WordConverter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Farid\\source\\repos\\WordConverter\\WordConverter\\WordConverter.csproj": {
+    "C:\\github\\word-converter\\WordConverter\\WordConverter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Farid\\source\\repos\\WordConverter\\WordConverter\\WordConverter.csproj",
+        "projectUniqueName": "C:\\github\\word-converter\\WordConverter\\WordConverter.csproj",
         "projectName": "WordConverter",
-        "projectPath": "C:\\Users\\Farid\\source\\repos\\WordConverter\\WordConverter\\WordConverter.csproj",
+        "projectPath": "C:\\github\\word-converter\\WordConverter\\WordConverter.csproj",
         "packagesPath": "C:\\Users\\Farid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Farid\\source\\repos\\WordConverter\\WordConverter\\obj\\",
+        "outputPath": "C:\\github\\word-converter\\WordConverter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Farid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7",
             "projectReferences": {}
           }
         },
@@ -37,12 +37,20 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7",
           "dependencies": {
+            "Aspose.Words": {
+              "target": "Package",
+              "version": "[24.5.0, )"
+            },
             "DocumentFormat.OpenXml": {
               "target": "Package",
               "version": "[3.0.2, )"
+            },
+            "OpenXmlPowerTools.NetCore": {
+              "target": "Package",
+              "version": "[1.1.0, )"
             }
           },
           "imports": [

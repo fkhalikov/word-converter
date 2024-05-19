@@ -1,0 +1,7 @@
+C:\github\word-converter\WordConverter\obj\Debug\net48\WordConverter.csproj.AssemblyReference.cache
+C:\github\word-converter\WordConverter\obj\Debug\net48\WordConverter.csproj.SuggestedBindingRedirects.cache
+C:\github\word-converter\WordConverter\obj\Debug\net48\WordConverter.exe.config
+C:\github\word-converter\WordConverter\obj\Debug\net48\WordConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\word-converter\WordConverter\obj\Debug\net48\WordConverter.AssemblyInfoInputs.cache
+C:\github\word-converter\WordConverter\obj\Debug\net48\WordConverter.AssemblyInfo.cs
+C:\github\word-converter\WordConverter\obj\Debug\net48\WordConverter.csproj.CoreCompileInputs.cache
